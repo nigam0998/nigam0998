@@ -17,13 +17,13 @@
 <!-- ⚽ THE CARD — CENTERPIECE (LIVE FROM GITFUT)                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://gitfut.com/nigam0998">
-  <img src="https://gitfut.com/nigam0998.png" width="280" alt="GitFut FIFA Card — Devyansh Nigam"/>
+<a href="https://gitfut.com/nigam0998?country=in">
+  <img src="https://gitfut.com/nigam0998.png?country=in" width="280" alt="GitFut FIFA Card — Devyansh Nigam"/>
 </a>
 
 <br/>
 
-<sub>⚽ <i>Card auto-updates as my GitHub stats change — <a href="https://gitfut.com/nigam0998">view full scouting report ↗</a></i></sub>
+<sub>⚽ <i>Card auto-updates as my GitHub stats change — <a href="https://gitfut.com/nigam0998?country=in">view full scouting report ↗</a></i></sub>
 
 </div>
 
@@ -115,17 +115,25 @@
 <br/>
 
 <!-- GitHub Stats -->
+<table align="center" border="0">
+<tr>
+<td>
 <a href="https://github.com/nigam0998">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigam0998&show_icons=true&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&icon_color=39D353&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nigam0998&show_icons=true&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&icon_color=39D353&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
+</td>
+<td>
 <a href="https://github.com/nigam0998">
-  <img src="https://streak-stats.demolab.com?user=nigam0998&theme=dark&background=0d1117&ring=F0CFA8&fire=F0CFA8&currStreakLabel=F0CFA8&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" width="49%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nigam0998&theme=dark&background=0d1117&ring=F0CFA8&fire=F0CFA8&currStreakLabel=F0CFA8&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" alt="GitHub Streak"/>
 </a>
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam0998&layout=compact&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam0998&layout=compact&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10" alt="Top Languages"/>
 
 </div>
 
@@ -153,7 +161,7 @@
 
 ## 🏆 TROPHY CABINET
 
-<img src="https://github-profile-trophy.vercel.app/?username=nigam0998&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="90%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nigam0998&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
