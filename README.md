@@ -119,7 +119,7 @@
 <tr>
 <td>
 <a href="https://github.com/nigam0998">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigam0998&show_icons=true&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&icon_color=39D353&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nigam0998&show_icons=true&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&icon_color=39D353&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 </td>
 <td>
@@ -133,7 +133,7 @@
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigam0998&layout=compact&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nigam0998&layout=compact&theme=dark&bg_color=0d1117&title_color=F0CFA8&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10" alt="Top Languages"/>
 
 </div>
 
@@ -159,9 +159,9 @@
 
 <div align="center">
 
-## 🏆 TROPHY CABINET
+## 🏆 PROFILE SUMMARY
 
-<img src="https://github-profile-trophy.vercel.app/?username=nigam0998&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nigam0998&theme=github_dark" alt="Profile Summary"/>
 
 </div>
 
