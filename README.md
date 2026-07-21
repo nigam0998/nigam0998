@@ -159,13 +159,7 @@
 
 <div align="center">
 
-## 🏆 PROFILE SUMMARY
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nigam0998&theme=github_dark" alt="Profile Summary"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- 🐍 SNAKE ANIMATION — UPDATED ON EVERY PUSH                 -->
