@@ -4,7 +4,7 @@
 <!-- ⚽ ANIMATED HEADER — CINEMATIC INTRO                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a1a,100:39D353&height=220&section=header&text=DEVYANSH%20NIGAM&fontSize=52&fontColor=F0CFA8&fontAlignY=35&desc=57%20OVR%20%C2%B7%20CAM%20%C2%B7%20FANTASISTA%20%C2%B7%20ONE%20TO%20WATCH%20%F0%9F%8C%9F&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a1a,100:39D353&height=220&section=header&text=DEVYANSH%20NIGAM&fontSize=52&fontColor=F0CFA8&fontAlignY=35&desc=58%20OVR%20%C2%B7%20CAM%20%C2%B7%20FANTASISTA%20%C2%B7%20ONE%20TO%20WATCH%20%F0%9F%8C%9F&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
 
 <br/>
 
